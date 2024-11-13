@@ -17,7 +17,7 @@
 }
 
 .topnav a.hover, .active {
-    background-color: darkcyan;
+    background-color: rgba(104, 0, 139, 0.614);
 }
 
 .topnav .icon {
